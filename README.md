@@ -2,7 +2,7 @@
 
 **Тема:** Автосервис
 
-**Ссылка на сайт (GitHub Pages):** https://<ваш-логин>.github.io/landing-<фамилия>/
+  https://suniiiS.github.io/landing-Zhakhansha/
 
 ## Что сделано
 
